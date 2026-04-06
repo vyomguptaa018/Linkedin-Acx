@@ -1,0 +1,7 @@
+{
+    "name": "linkedin-jobs-scraper",
+    "version": "1.0",
+    "buildTag": "latest",
+    "env": null,
+    "template": "playwright_chrome"
+}
