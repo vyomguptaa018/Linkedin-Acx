@@ -1,0 +1,16 @@
+{
+    "searchKeywords": "Software Engineer",
+    "location": "Remote",
+    "maxResults": 50,
+    "datePosted": "pastWeek",
+    "jobType": ["fullTime"],
+    "experienceLevel": [],
+    "remoteFilter": ["remote"],
+    "scrapeJobDetails": true,
+    "extractEmails": true,
+    "maxConcurrency": 2,
+    "requestDelay": 2500,
+    "proxy": {
+        "useApifyProxy": false
+    }
+}
